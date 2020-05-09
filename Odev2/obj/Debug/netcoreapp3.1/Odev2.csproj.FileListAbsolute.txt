@@ -1,0 +1,26 @@
+C:\Users\ADmin\Desktop\Odev2\Odev2\bin\Debug\netcoreapp3.1\Odev2.exe
+C:\Users\ADmin\Desktop\Odev2\Odev2\bin\Debug\netcoreapp3.1\Odev2.deps.json
+C:\Users\ADmin\Desktop\Odev2\Odev2\bin\Debug\netcoreapp3.1\Odev2.runtimeconfig.json
+C:\Users\ADmin\Desktop\Odev2\Odev2\bin\Debug\netcoreapp3.1\Odev2.runtimeconfig.dev.json
+C:\Users\ADmin\Desktop\Odev2\Odev2\bin\Debug\netcoreapp3.1\Odev2.dll
+C:\Users\ADmin\Desktop\Odev2\Odev2\bin\Debug\netcoreapp3.1\Odev2.pdb
+C:\Users\ADmin\Desktop\Odev2\Odev2\obj\Debug\netcoreapp3.1\Odev2.csprojAssemblyReference.cache
+C:\Users\ADmin\Desktop\Odev2\Odev2\obj\Debug\netcoreapp3.1\Odev2.csproj.CoreCompileInputs.cache
+C:\Users\ADmin\Desktop\Odev2\Odev2\obj\Debug\netcoreapp3.1\Odev2.AssemblyInfoInputs.cache
+C:\Users\ADmin\Desktop\Odev2\Odev2\obj\Debug\netcoreapp3.1\Odev2.AssemblyInfo.cs
+C:\Users\ADmin\Desktop\Odev2\Odev2\obj\Debug\netcoreapp3.1\Odev2.dll
+C:\Users\ADmin\Desktop\Odev2\Odev2\obj\Debug\netcoreapp3.1\Odev2.pdb
+C:\Users\ADmin\Desktop\Odev2\Odev2\obj\Debug\netcoreapp3.1\Odev2.genruntimeconfig.cache
+C:\Users\ADmin\Desktop\anıl programlar\Odev2\Odev2\bin\Debug\netcoreapp3.1\Odev2.exe
+C:\Users\ADmin\Desktop\anıl programlar\Odev2\Odev2\bin\Debug\netcoreapp3.1\Odev2.deps.json
+C:\Users\ADmin\Desktop\anıl programlar\Odev2\Odev2\bin\Debug\netcoreapp3.1\Odev2.runtimeconfig.json
+C:\Users\ADmin\Desktop\anıl programlar\Odev2\Odev2\bin\Debug\netcoreapp3.1\Odev2.runtimeconfig.dev.json
+C:\Users\ADmin\Desktop\anıl programlar\Odev2\Odev2\bin\Debug\netcoreapp3.1\Odev2.dll
+C:\Users\ADmin\Desktop\anıl programlar\Odev2\Odev2\bin\Debug\netcoreapp3.1\Odev2.pdb
+C:\Users\ADmin\Desktop\anıl programlar\Odev2\Odev2\obj\Debug\netcoreapp3.1\Odev2.csprojAssemblyReference.cache
+C:\Users\ADmin\Desktop\anıl programlar\Odev2\Odev2\obj\Debug\netcoreapp3.1\Odev2.csproj.CoreCompileInputs.cache
+C:\Users\ADmin\Desktop\anıl programlar\Odev2\Odev2\obj\Debug\netcoreapp3.1\Odev2.AssemblyInfoInputs.cache
+C:\Users\ADmin\Desktop\anıl programlar\Odev2\Odev2\obj\Debug\netcoreapp3.1\Odev2.AssemblyInfo.cs
+C:\Users\ADmin\Desktop\anıl programlar\Odev2\Odev2\obj\Debug\netcoreapp3.1\Odev2.dll
+C:\Users\ADmin\Desktop\anıl programlar\Odev2\Odev2\obj\Debug\netcoreapp3.1\Odev2.pdb
+C:\Users\ADmin\Desktop\anıl programlar\Odev2\Odev2\obj\Debug\netcoreapp3.1\Odev2.genruntimeconfig.cache
